@@ -1,0 +1,72 @@
+/*COLOR SCHEME*/
+$colorWhite: #fefefe;
+$colorBlack: #000000;
+$colorDarkgray: #444444;
+$colorLightgray: #dddddd;
+
+
+/*===============================
+=            General            =
+===============================*/
+
+/*----------  padding for section  ----------*/
+/*
+
+Husk selv at indstille sektionerne, så padding passer, og ret stylingen til så den kun rammer sektioner med éns farvetema.
+
+Eksempel:
+
+.flexible-inner-section.white-theme.has-padding + .flexible-inner-section.white-theme.has-padding{
+	padding-top: 0px;
+}
+
+*/
+.flexible-inner-section.has-padding + .flexible-inner-section.has-padding{
+	padding-top: 0px;
+}
+
+/*------------ RESPONSIVE ------------*/
+
+/*-Desktop (iMac) 1450px-*/
+@media screen and (max-width: 1450px) {
+
+}
+/*-Desktop (Macbook) 1200px-*/
+@media screen and (max-width: 1200px) {
+    
+}
+
+/*-Desktop (Macbook) 1050px-*/
+@media screen and (max-width: 1050px) {
+ 
+}
+
+/*-Tablet (Orientation: landscape) 1024px-*/
+@media screen and (max-width: 1024px) {
+
+}
+    
+/*-Tablet (Orientation: portrait) 768px-*/
+@media screen and (max-width: 768px) {
+      
+}
+
+/*-Smartphone (Samsung S6: landscape) 640px-*/
+@media screen and (max-width: 640px) {
+ 
+}
+
+/*-Smartphone (iPhone 4: landscape) 480px-*/
+@media screen and (max-width: 480px) {
+    
+}
+
+/*-Smartphone (Samsung S6: portrait) 360px-*/
+@media screen and (max-width: 360px) {
+
+}
+
+/*-Smartphone (iphone 5: portrait) 320px-*/
+@media screen and (max-width: 320px) {
+    
+}

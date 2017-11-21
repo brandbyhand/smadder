@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Blog\n"
+"POT-Creation-Date: 2015-10-12 15:54+0200\n"
+"PO-Revision-Date: 2015-10-12 15:54+0200\n"
+"Last-Translator: Foxtrot <foxtrot@foxtrot.me>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/generate-blog.php:10
+msgid "Read more..."
+msgstr "Číst dál..."
+
+#: functions/generate-blog.php:14
+msgid "+ More"
+msgstr "+ Více"
+
+#: functions/generate-blog.php:151
+msgid "Blog"
+msgstr "Blog"
+
+#: functions/generate-blog.php:166
+msgid "Blog Content"
+msgstr "Obsah blogu"
+
+#: functions/generate-blog.php:184
+msgid "Excerpt Length"
+msgstr "Délka úryvku"
+
+#: functions/generate-blog.php:202
+msgid "Read more label"
+msgstr "Označení \"číst dál\""
+
+#: functions/generate-blog.php:215 functions/generate-blog.php:239
+msgid "Masonry"
+msgstr "Zeď"
+
+#: functions/generate-blog.php:242
+msgid "Enable"
+msgstr "Povolit"
+
+#: functions/generate-blog.php:243
+msgid "Disable"
+msgstr "Zakázat"
+
+#: functions/generate-blog.php:269
+msgid "Masonry Block Width"
+msgstr "Šířka bloků zdi"
+
+#: functions/generate-blog.php:272 functions/generate-blog.php:303
+#: functions/generate-blog.php:870
+msgid "Small"
+msgstr "Malá"
+
+#: functions/generate-blog.php:273 functions/generate-blog.php:304
+#: functions/generate-blog.php:871
+msgid "Medium"
+msgstr "Střední"
+
+#: functions/generate-blog.php:274 functions/generate-blog.php:305
+#: functions/generate-blog.php:872
+msgid "Large"
+msgstr "Velká"
+
+#: functions/generate-blog.php:300
+msgid "Masonry Most Recent Width"
+msgstr "Šířka zdi s nejnovějšími příspěvky"
+
+#: functions/generate-blog.php:324
+msgid "Masonry Load More Text"
+msgstr "Text pro načtení více zdi"
+
+#: functions/generate-blog.php:342
+msgid "Masonry Loading Text"
+msgstr "Text při načítání zdi"
+
+#: functions/generate-blog.php:355 functions/generate-blog.php:379
+msgid "Post Image"
+msgstr "Obrázek příspěvku"
+
+#: functions/generate-blog.php:382 functions/generate-blog.php:517
+#: functions/generate-blog.php:547 functions/generate-blog.php:577
+#: functions/generate-blog.php:607 functions/generate-blog.php:637
+msgid "Show"
+msgstr "Zobrazit"
+
+#: functions/generate-blog.php:383 functions/generate-blog.php:518
+#: functions/generate-blog.php:548 functions/generate-blog.php:578
+#: functions/generate-blog.php:608 functions/generate-blog.php:638
+msgid "Hide"
+msgstr "Skrýt"
+
+#: functions/generate-blog.php:409
+msgid "Post Image Position"
+msgstr "Umístění obrázku příspěvku"
+
+#: functions/generate-blog.php:412
+msgid "Below Header"
+msgstr "Pod hlavičkou"
+
+#: functions/generate-blog.php:413
+msgid "Above Header"
+msgstr "Nad hlavičkou"
+
+#: functions/generate-blog.php:439
+msgid "Post Image Alignment"
+msgstr "Zarovnání obrázku příspěvku"
+
+#: functions/generate-blog.php:442
+msgid "Center"
+msgstr "Doprostřed"
+
+#: functions/generate-blog.php:443
+msgid "Left"
+msgstr "Doleva"
+
+#: functions/generate-blog.php:444
+msgid "Right"
+msgstr "Doprava"
+
+#: functions/generate-blog.php:465
+msgid "Post Image Width"
+msgstr "Šířka obrázku příspěvku"
+
+#: functions/generate-blog.php:469 functions/generate-blog.php:491
+msgid "Auto"
+msgstr "Automaticky"
+
+#: functions/generate-blog.php:487
+msgid "Post Image Height"
+msgstr "Výška obrázku příspěvku"
+
+#: functions/generate-blog.php:514
+msgid "Date"
+msgstr "Datum"
+
+#: functions/generate-blog.php:544
+msgid "Author"
+msgstr "Autor"
+
+#: functions/generate-blog.php:574
+msgid "Categories"
+msgstr "Rubriky"
+
+#: functions/generate-blog.php:604
+msgid "Tags"
+msgstr "Štítky"
+
+#: functions/generate-blog.php:634
+msgid "Comment Link"
+msgstr "Odkaz na komentáře"
+
+#: functions/generate-blog.php:836 functions/generate-blog.php:867
+msgid "Masonry Post Width"
+msgstr "Šířka zdi s příspěvky"
+
+#: functions/generate-blog.php:869
+msgid "Global setting"
+msgstr "Globální nastavení"
+
+#: functions/ie.php:14
+msgid "Warning: This will delete your settings."
+msgstr "Varování: Toto smaže vaše nastavení."
+
+#: functions/ie.php:16
+msgid "Delete Blog Customizer Settings"
+msgstr "Smazat nastavení Přizpůsobení pro Blog"
+
+#: functions/ie.php:53
+msgid "Export Blog Customizer Settings"
+msgstr "Exportovat nastavení Přizpůsobení pro Blog"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a> nebo <a href=\"%4$s"
+#~ "\">aktualizovat nyní</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Nemáte oprávnění k instalaci aktualizací pluginů"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Chcete aktualizace dodávat přímo do vaší Nástěnky? Aktivujte zde email, "
+#~ "kterým jste zakoupili vaše doplňky."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Deaktivovat email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Aktivovat email"
+
+#~ msgid "Save Email"
+#~ msgstr "Uložit email"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Povolit všechny aktualizace"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Zakázat aktualizace"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Povolit aktualizace"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr "Aktivace emailu selhala. Tento email v našich záznamech neexistuje."
+
+#~ msgid "Email activated."
+#~ msgstr "Email aktivován."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email deaktivován."
+
+#~ msgid "License failed."
+#~ msgstr "Licence selhala."
+
+#~ msgid "License activated."
+#~ msgstr "Licence aktivována."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licence aktivovány."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivace selhala."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licence deaktivována."

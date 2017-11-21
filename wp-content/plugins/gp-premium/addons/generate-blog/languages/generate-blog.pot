@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Blog\n"
+"POT-Creation-Date: 2016-01-13 10:29-0800\n"
+"PO-Revision-Date: 2015-05-20 10:49-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/customizer.php:16
+msgid "Blog"
+msgstr ""
+
+#: functions/customizer.php:31
+msgid "Blog Content"
+msgstr ""
+
+#: functions/customizer.php:49
+msgid "Excerpt Length"
+msgstr ""
+
+#: functions/customizer.php:67
+msgid "Read more label"
+msgstr ""
+
+#: functions/customizer.php:80 functions/customizer.php:104
+msgid "Masonry"
+msgstr ""
+
+#: functions/customizer.php:107 functions/customizer.php:561
+#: functions/customizer.php:623
+msgid "Enable"
+msgstr ""
+
+#: functions/customizer.php:108 functions/customizer.php:562
+#: functions/customizer.php:624
+msgid "Disable"
+msgstr ""
+
+#: functions/customizer.php:134
+msgid "Masonry Block Width"
+msgstr ""
+
+#: functions/customizer.php:137 functions/customizer.php:168
+#: functions/masonry.php:94
+msgid "Small"
+msgstr ""
+
+#: functions/customizer.php:138 functions/customizer.php:169
+#: functions/masonry.php:95
+msgid "Medium"
+msgstr ""
+
+#: functions/customizer.php:139 functions/customizer.php:170
+#: functions/masonry.php:96
+msgid "Large"
+msgstr ""
+
+#: functions/customizer.php:165
+msgid "Masonry Most Recent Width"
+msgstr ""
+
+#: functions/customizer.php:189
+msgid "Masonry Load More Text"
+msgstr ""
+
+#: functions/customizer.php:207
+msgid "Masonry Loading Text"
+msgstr ""
+
+#: functions/customizer.php:220 functions/customizer.php:244
+msgid "Post Image"
+msgstr ""
+
+#: functions/customizer.php:247 functions/customizer.php:382
+#: functions/customizer.php:412 functions/customizer.php:442
+#: functions/customizer.php:472 functions/customizer.php:502
+msgid "Show"
+msgstr ""
+
+#: functions/customizer.php:248 functions/customizer.php:383
+#: functions/customizer.php:413 functions/customizer.php:443
+#: functions/customizer.php:473 functions/customizer.php:503
+msgid "Hide"
+msgstr ""
+
+#: functions/customizer.php:274
+msgid "Post Image Position"
+msgstr ""
+
+#: functions/customizer.php:277
+msgid "Below Header"
+msgstr ""
+
+#: functions/customizer.php:278
+msgid "Above Header"
+msgstr ""
+
+#: functions/customizer.php:304
+msgid "Post Image Alignment"
+msgstr ""
+
+#: functions/customizer.php:307
+msgid "Center"
+msgstr ""
+
+#: functions/customizer.php:308
+msgid "Left"
+msgstr ""
+
+#: functions/customizer.php:309
+msgid "Right"
+msgstr ""
+
+#: functions/customizer.php:330
+msgid "Post Image Width"
+msgstr ""
+
+#: functions/customizer.php:334 functions/customizer.php:356
+msgid "Auto"
+msgstr ""
+
+#: functions/customizer.php:352
+msgid "Post Image Height"
+msgstr ""
+
+#: functions/customizer.php:379
+msgid "Date"
+msgstr ""
+
+#: functions/customizer.php:409
+msgid "Author"
+msgstr ""
+
+#: functions/customizer.php:439
+msgid "Categories"
+msgstr ""
+
+#: functions/customizer.php:469
+msgid "Tags"
+msgstr ""
+
+#: functions/customizer.php:499
+msgid "Comment Link"
+msgstr ""
+
+#: functions/customizer.php:517 functions/customizer.php:588
+msgid "Columns"
+msgstr ""
+
+#: functions/customizer.php:532
+msgid "Masonry is enabled. These settings will be ignored."
+msgstr ""
+
+#: functions/customizer.php:558
+msgid "Column Layout"
+msgstr ""
+
+#: functions/customizer.php:620
+msgid "First Post Full Width"
+msgstr ""
+
+#: functions/defaults.php:10
+msgid "Read more..."
+msgstr ""
+
+#: functions/defaults.php:14
+msgid "+ More"
+msgstr ""
+
+#: functions/defaults.php:15
+msgid "Loading..."
+msgstr ""
+
+#: functions/ie.php:14
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: functions/ie.php:16
+msgid "Delete Blog Customizer Settings"
+msgstr ""
+
+#: functions/ie.php:53
+msgid "Export Blog Customizer Settings"
+msgstr ""
+
+#: functions/masonry.php:60 functions/masonry.php:91
+msgid "Masonry Post Width"
+msgstr ""
+
+#: functions/masonry.php:93
+msgid "Global setting"
+msgstr ""

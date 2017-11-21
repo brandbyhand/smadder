@@ -1,0 +1,5 @@
+body.mce-content-body .btn.btn-custom { color: #575756; text-decoration: none; display: inline-block; box-sizing: border-box; border: 1px solid #575756; padding: 10px 15px; min-width: 160px; text-align: center; font-family: "Halant", serif; text-transform: uppercase; } 
+body.mce-content-body span.clearfix::before{content:""; display: table; clear: both;} 
+body.mce-content-body span.clearfix::after{content:""; display: table; clear: both;}
+body.mce-content-body h2, body.mce-content-body h3, body.mce-content-body h4{font-weight: 400; font-family: "Halant", serif; }
+body.mce-content-body p{ font-family: "Raleway", sans-serif }

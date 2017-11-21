@@ -1,0 +1,86 @@
+/* styling for the footer */
+#wpfooter #footer-left img {
+    height: 1.2em;
+    width: auto;
+    margin-right: 0.5em;
+}
+
+/* styling for admin menu */
+ 
+/* background and text color */
+#adminmenu li.menu-top:hover, #adminmenu li.opensub > a.menu-top, #adminmenu li > a.menu-top:focus {
+    background-color: #58595b;
+    color: #d54e21;
+}
+ 
+/* links in admin menu */
+#adminmenu a,
+#adminmenu li.menu-top:hover,
+#adminmenu li.opensub > a.menu-top,
+#adminmenu li > a.menu-top:focus {
+    color: #fff;
+}
+#adminmenu a:hover,
+#adminmenu a:active {
+    color: #fff;
+}
+#adminmenu .wp-submenu a {
+    color: #58595b;
+}
+/* change color of arrow to submenus */
+#adminmenu li.wp-not-current-submenu .wp-menu-arrow,
+#adminmenu li.wp-not-current-submenu .wp-menu-arrow div {
+    background: #58595b;
+}
+ 
+/* active screen as seen in menu - change the background and arrow colour */
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu,
+#adminmenu li.current a.menu-top,
+.folded #adminmenu li.wp-has-current-submenu,
+.folded #adminmenu li.current.menu-top,
+#adminmenu .wp-menu-arrow,
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head {
+    background: #3C9BB5;
+}
+#adminmenu li.wp-has-current-submenu .wp-menu-arrow,
+#adminmenu li.wp-has-current-submenu .wp-menu-arrow div {
+    background: #3C9BB5;
+}
+
+/* links elsewhere */
+a:hover, a:active {
+    color: #3C9BB5;
+}
+/* buttons */
+
+/* buttons */
+.wp-core-ui .button-primary {
+    background: #3C9BB5;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#3C9BB5),to(#3C9BB5));
+    background-image: -webkit-linear-gradient(top,#3C9BB5,#3C9BB5);
+    background-image: -moz-linear-gradient(top,#3C9BB5,#3C9BB5);
+    background-image: -ms-linear-gradient(top,#3C9BB5,#3C9BB5);
+    background-image: -o-linear-gradient(top,#3C9BB5,#3C9BB5);
+    background-image: linear-gradient(to bottom,#3C9BB5,#3C9BB5);
+    border-color: #3C9BB5;
+    color: rgba(255,255,255,0.95);
+    -webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+    box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+.wp-core-ui .button-primary.active,
+.wp-core-ui .button-primary:hover,
+.wp-core-ui .button-primary:active {
+    background: #64B0C4;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#64B0C4),to(#64B0C4));
+    background-image: -webkit-linear-gradient(top,#64B0C4,#64B0C4);
+    background-image: -moz-linear-gradient(top,#64B0C4,#64B0C4);
+    background-image: -ms-linear-gradient(top,#64B0C4,#64B0C4);
+    background-image: -o-linear-gradient(top,#64B0C4,#64B0C4);
+    background-image: linear-gradient(to bottom,#64B0C4,#64B0C4);
+    border-color: #64B0C4;
+    color: rgba(255,255,255,0.95);
+    -webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+    box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
